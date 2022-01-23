@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 85%;
+  margin: 30px auto;
+  background-color: rgb(240, 240, 216);
+  box-shadow: 1px 1px 20px rgb(90, 55, 44);
+}
+
+header , footer {
+  background-color: rgb(139, 139, 112);
+  color: aliceblue;
+  text-align: center;
+  padding: 25px;
+}
+
+h1 {
+  margin: 12px 0;
+  font-size: 4rem;
+}
+
+header p {
+  font-size: 1.5rem;
+}
+
+
+main {
+  padding: 40px;
+  background-color: rgb(152, 199, 176);
+}
+
+#texto-tarefa {
+  padding: 20px;
+  width: 50%;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+#tarefas {
+  font-size: 2.5rem;
+  padding: 70px;
+  min-height: 300px;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+.btn {
+  font-size: 25px;
+  padding: 15px;
+  border-radius: 15px;
+  margin-left: 15px;
+  background-color: rgb(90, 55, 44);
+  color: white;
+}
+
+.btn:hover {
+  opacity: 95%;
+  cursor: pointer;
+}
+
+.rounded-button {
+  font-size: 25px;
+  padding: 15px 20px;
+  margin-left: 15px;
+  border-radius: 50%;
+  font-weight: 1000;
+}
+
+#remover-selecionado {
+  color: white;
+  background-color: rgb(201, 75, 12);
+}
+
+footer p {
+  font-size: 1.4rem;
+}
