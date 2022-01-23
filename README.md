@@ -7,4 +7,4 @@ A proposta do projeto era desenvolver uma página web em que o usuário pudesse 
 ---
 ## Link para o deploy
 
-https://leo02452.github.io/to-do-list/
+https://leo02452.github.io/To-Do-List/
