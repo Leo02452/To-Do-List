@@ -84,10 +84,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 1 - Clone esse repositório para sua máquina com o seguinte comando:
 
 ```bash
- git clone git@github.com:Leo02452/to-do-list.git
+ git clone git@github.com:Leo02452/To-Do-List.git
 ```
 
-2 - Via interface gráfica, vá até a pasta 'lessons-learned criada. Entre nela.
+2 - Via interface gráfica, vá até a pasta 'To-Do-List' criada. Entre nela.
 
 3 - Dê um duplo clique no arquivo index.html
 </details>
