@@ -14,7 +14,7 @@
 
 ## :page_facing_up: Descrição
 
-Esse foi o meu primeiro projeto na Trybe juntando HTML, CSS e Javascript. O desafio proposto no projeto foi desenvolver uma aplicação estática em que usuário possa criar e gerenciar suas tarefas.
+Esse foi o meu primeiro projeto na [Trybe](https://www.betrybe.com/) juntando HTML, CSS e Javascript. O desafio proposto no projeto foi desenvolver uma aplicação estática em que usuário possa criar e gerenciar suas tarefas.
 
 
 ## :bulb: Habilidades desenvolvidas
